@@ -51,7 +51,6 @@ The analysis of 286,690 unique users yielded the following results:
 The statistical test produced a **p-value of 0.21**.
 
 ### A/B Test Conversion Rate Comparison
-A/B Test Conversion Rate Bar Chart
 <img width="701" height="532" alt="output" src="https://github.com/user-attachments/assets/79d490c8-b67c-43a0-8e31-3928147b178b" />
 
 
