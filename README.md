@@ -51,6 +51,7 @@ The analysis of 286,690 unique users yielded the following results:
 The statistical test produced a **p-value of 0.21**.
 
 ### A/B Test Conversion Rate Comparison
+A/B Test Conversion Rate Bar Chart <img width="701" height="532" alt="output" src="https://github.com/user-attachments/assets/79d490c8-b67c-43a0-8e31-3928147b178b" />
 
 
 As the chart clearly shows, the conversion rates for both pages are nearly identical. The new page's performance is slightly lower, but the difference is well within the margin of what we would expect from random variation.
